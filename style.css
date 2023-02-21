@@ -97,6 +97,7 @@ body {
   background-color: var(--clr-neutral-gray);
   color: var(--clr-neutral-grayish-blue);
   font-family: var(--font-family-primary);
+  font-weight: var(--font-weight-regular);
   display: flex;
   align-items: center;
   justify-content: center;
